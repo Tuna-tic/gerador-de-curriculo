@@ -46,7 +46,7 @@ style.css	- Contém o CSS personalizado para o tema Dark Mode/Neon do formulári
 vendor/	- Pasta gerada pelo Composer, contendo a biblioteca Dompdf.
 README.md	- Documentação do projeto.
 
-Contribuição
+Contribuição e
 Autor: Vitor de Souza Fernandes
 
 Licença: Para Fins Acadêmicos
